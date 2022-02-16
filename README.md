@@ -1,10 +1,10 @@
 # VCPlayerBot
 
-![GitHub Repo stars](https://img.shields.io/github/stars/subinps/VCPlayerBot?color=blue&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/subinps/VCPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/subinps/VCPlayerBot)
-![GitHub contributors](https://img.shields.io/github/contributors/subinps/VCPlayerBot?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/subinps/VCPlayerBot?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/adithasuvi/VCPlayerBot?color=blue&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/adithasuvi/VCPlayerBot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/adithasuvi/VCPlayerBot)
+![GitHub contributors](https://img.shields.io/github/contributors/adithasuvi/VCPlayerBot?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/adithasuvi/VCPlayerBot?style=flat)
 
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
@@ -57,7 +57,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9WQ1BsYXllckJvdCBtYWlu)
 
 ## Deploy to Railway
-<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/adithasuvi/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
  
 ## Deploy to VPS
